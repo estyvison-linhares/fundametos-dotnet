@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace fundametos_dotnet.Models
+namespace FundamentosDotnet.Models
 {
     public class Pessoa
     {
